@@ -1,0 +1,21 @@
+
+.header {
+  width: 100%;
+  font-size: 28px;
+  color: red;
+  margin-bottom: 10px;
+}
+
+.intro {
+  font-size: 20px;
+  float: center;
+  
+}
+.title {
+  margin: center;
+}
+
+.scores {
+  float: center;
+}
+
